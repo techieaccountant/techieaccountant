@@ -16,4 +16,4 @@
 My Arsenal:
 - Microsoft Excel
 - Google Sheet
-- SQL (Structured Query Language)
+
